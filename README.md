@@ -18,7 +18,7 @@
 
 <div align="center">
   
-  | <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuHenriqueVieira&theme=algolia" /> | <img alt=" " src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuHenriqueVieira&layout=donut&theme=algolia" /> |
+  | <img alt="luhenriquevieira" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuHenriqueVieira&theme=algolia" /> | <img alt="luhenriquevieira" src="https://github-readme-stats.vercel.app/api/top-langs?username=luhenriquevieira&show_icons=true&locale=en&layout=compact&theme=algolia" /> |
   | :-: | :-: |
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuHenriqueVieira&theme=algolia)
@@ -60,5 +60,7 @@
   </a>
   
 </div>
+
+<p><</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=2575fc&section=footer&reversal=true">
