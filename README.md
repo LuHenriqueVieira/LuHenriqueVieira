@@ -18,7 +18,7 @@
 
 <div align="center">
   
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuHenriqueVieira&theme=algolia) | [![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuHenriqueVieira&layout=donut&theme=algolia)](https://github.com/LuHenriqueVieira/github-readme-stats-academic) |
+  | <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuHenriqueVieira&theme=algolia" /> | <img alt=" " src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuHenriqueVieira&layout=donut&theme=algolia" /> |
   | :-: | :-: |
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuHenriqueVieira&theme=algolia)
