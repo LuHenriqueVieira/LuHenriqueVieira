@@ -9,7 +9,7 @@
 <div align="justify">
     <ul>
         <li>🎓 Sou estudante de Ciências da Computação e tenho me dedicado constantemente no desenvolvimento de habilidades e técnicas que me ajudarão a ser um profissional de qualidade que estará preparado para atender qualquer demanda.</li>
-        <li>🧑🏻‍💻 Futuro Desenvolvedor de Software.</li>
+        <li>🧑🏻‍💻 Futuro Desenvolvedor de Software e Cientista de Dados.</li>
         <li>🎨 Possuo experiência como Designer Gráfico freelancer, como a criação de logotipos e identidades visuais.</li> 
     </ul>
 </div>
