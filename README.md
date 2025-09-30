@@ -1,22 +1,24 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=2575fc&section=header&reversal=true">
 
 <div align="center" width="100%>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&pause=1000&color=18ABFC&center=true&vCenter=true&width=435&lines=Hello%2C+my+name+is+Lucas+Henrique;I'm+a+Computer+Science+student;Welcome!" alt="Typing SVG">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&pause=1000&color=18ABFC&center=true&vCenter=true&width=435&lines=Olá%2C+Meu+nome+é+Lucas+Henrique;Estudante+de+Ciência+da+Computação;Seja+Bem-vindo!" alt="Typing SVG">
   </a>
   
 </div>
 
-<div align="justify">
-    <ul>
-        <li>🎓 Sou estudante de Ciências da Computação e tenho me dedicado constantemente no desenvolvimento de habilidades e técnicas que me ajudarão a ser um profissional de qualidade que estará preparado para atender qualquer demanda.</li>
-        <li>🧑🏻‍💻 Futuro Desenvolvedor de Software e Cientista de Dados.</li>
-        <li>🎨 Possuo experiência como Designer Gráfico freelancer, como a criação de logotipos e identidades visuais.</li> 
-    </ul>
+<div align="center">
+  
+  🎓  Sou estudante de **Ciências da Computação** e tenho me dedicado constantemente ao desenvolvimento de habilidades e técnicas voltadas para **back-end** e **desenvolvimento de software**. Meu objetivo é me tornar um profissional capaz de criar soluções eficientes, escaláveis e bem estruturadas, sempre buscando qualidade e boas práticas. Estou em constante aprendizado para estar preparado para enfrentar diferentes desafios e atender às demandas do mercado de tecnologia.
+  | :-: |
+ 
+   
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
+
+  ## 📊 Estatísticas
   
   | <img alt="luhenriquevieira" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuHenriqueVieira&theme=algolia" /> | <img alt="luhenriquevieira" src="https://github-readme-stats.vercel.app/api/top-langs?username=luhenriquevieira&show_icons=true&locale=en&layout=compact&theme=algolia" /> |
   | :-: | :-: |
@@ -29,7 +31,7 @@
 
 <div align="center">
 
-## 💻 Technologies and Tools
+## 💻 Tecnologias e Ferramentas
 
 </div>
 
@@ -43,7 +45,7 @@
 
 <br>
 
-## ✉️ Contact and Social Medias
+## ✉️ Contato e Redes Sociais
 
 <div align="center">
   
