@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=2575fc&section=header&reversal=true">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=2575fc&section=header&reversal=true">
 
 <div align="center" width="100%>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&pause=1000&color=18ABFC&center=true&vCenter=true&width=435&lines=Olá%2C+Meu+nome+é+Lucas+Henrique;Estudante+de+Ciência+da+Computação;Seja+Bem-vindo!" alt="Typing SVG">
@@ -6,11 +6,11 @@
   
 </div>
 
+---
+
 <div align="center">
   
-  🎓  Sou estudante de **Ciências da Computação** e tenho me dedicado constantemente ao desenvolvimento de habilidades e técnicas voltadas para **back-end** e **desenvolvimento de software**. Meu objetivo é me tornar um profissional capaz de criar soluções eficientes, escaláveis e bem estruturadas, sempre buscando qualidade e boas práticas. Estou em constante aprendizado para estar preparado para enfrentar diferentes desafios e atender às demandas do mercado de tecnologia.
-  | :-: |
- 
+  🎓  Sou estudante de **Ciências da Computação** e tenho me dedicado constantemente ao desenvolvimento de habilidades e técnicas voltadas para o **Desenvolvimento Full-Stack**. Meu objetivo é me tornar um profissional capaz de criar soluções eficientes, escaláveis e bem estruturadas, sempre buscando qualidade e boas práticas. Estou em constante aprendizado para estar preparado para enfrentar diferentes desafios e atender às demandas do mercado de tecnologia.
    
 </div>
 
@@ -19,15 +19,14 @@
 <div align="center">
 
   ## 📊 Estatísticas
+
+  <br>
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuHenriqueVieira&theme=algolia)  
   
-  | <img alt="luhenriquevieira" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuHenriqueVieira&theme=algolia" /> | <img alt="luhenriquevieira" src="https://github-readme-stats.vercel.app/api/top-langs?username=luhenriquevieira&show_icons=true&locale=en&layout=compact&theme=algolia" /> |
-  | :-: | :-: |
-  
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuHenriqueVieira&theme=algolia)
-  | :-: |   
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
 
@@ -63,4 +62,4 @@
   
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=2575fc&section=footer&reversal=true">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=2575fc&section=footer&reversal=true">
