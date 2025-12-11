@@ -10,7 +10,7 @@
 
 <div align="center">
   
-  🎓  Sou estudante de **Ciências da Computação** e tenho me dedicado constantemente ao desenvolvimento de habilidades e técnicas voltadas para o **Desenvolvimento Full-Stack**. Meu objetivo é me tornar um profissional capaz de criar soluções eficientes, escaláveis e bem estruturadas, sempre buscando qualidade e boas práticas. Estou em constante aprendizado para estar preparado para enfrentar diferentes desafios e atender às demandas do mercado de tecnologia.
+  🎓  Sou estudante de **Ciência da Computação** e tenho me dedicado constantemente ao desenvolvimento de habilidades e técnicas voltadas para o **Desenvolvimento Full-Stack**. Meu objetivo é me tornar um profissional capaz de criar soluções eficientes, escaláveis e bem estruturadas, sempre buscando qualidade e boas práticas. Estou em constante aprendizado para estar preparado para enfrentar diferentes desafios e atender às demandas do mercado de tecnologia.
    
 </div>
 
