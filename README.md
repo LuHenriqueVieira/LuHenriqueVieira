@@ -20,7 +20,7 @@
 
   ## 📊 Estatísticas
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuHenriqueVieira&theme=algolia)  
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuHenriqueVieira&hide_progress=false&theme=algolia&border=false)  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuHenriqueVieira&theme=algolia) 
   
 </div>
 
